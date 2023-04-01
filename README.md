@@ -1,4 +1,4 @@
-# CCT-SimCrack
+# SemiCrack
 We present a novel semi-supervised framework for crack segmentation (CCT-SimCrack) based on contrastive learning and cross pseudo supervision (CPS).
 # Framework structure
 ![半监督](https://user-images.githubusercontent.com/54063339/229289261-eb8c82a5-0f7c-4b67-b5f3-c82c01c684e5.png)
