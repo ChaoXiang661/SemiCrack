@@ -8,4 +8,6 @@ See another work done by the author https://github.com/ChaoXiang661/DTrC-Net
 ![image](https://user-images.githubusercontent.com/54063339/229280299-deca40ea-9733-4d47-84bc-669cb00d1ad9.png)
 # Results
 ![fig10](https://user-images.githubusercontent.com/54063339/229289274-cedee128-c613-4a39-97cb-29f00daabde1.png)
-
+# Reference
+"Semi-supervised learning framework for crack segmentation based on contrastive learning and cross pseudo supervision"
+Measurement, May 2023, Chao Xiang, Vincent J.L. Gan, Jingjing Guo, Lu Deng
